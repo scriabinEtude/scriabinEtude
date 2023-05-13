@@ -10,3 +10,7 @@ IOS 개발자로서 성장 과정을 기록하고자 합니다.\
 
 ### 2023-05
 [강의] [udemy] [Instagram Firestore App Clone | Swift 5 + iOS 14 | MVVM](https://www.udemy.com/course/instagram-firestore-app-clone-swift-5-ios-14-mvvm/)
+
+
+# Problem Solving
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scriabinetude)](https://solved.ac/scriabinetude/)
