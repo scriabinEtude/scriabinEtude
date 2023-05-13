@@ -1,5 +1,3 @@
-# scriabinetude-test
-
 # 31살의 IOS 개발자 도전기
 
 안녕하세요!\
