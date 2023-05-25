@@ -33,7 +33,7 @@
 [강의] [inflearn] [앨런 iOS 아이폰 앱 개발 (15개의 앱을 만들면서 근본원리부터 배우는 UIKit)](https://www.inflearn.com/course/ios-uikit-15apps/dashboard)
 
 ### 05월
-[강의] [udemy] [Instagram Firestore App Clone | Swift 5 + iOS 14 | MVVM](https://www.udemy.com/course/instagram-firestore-app-clone-swift-5-ios-14-mvvm/)\
+[강의] [udemy] [Instagram Firestore App Clone | Swift 5 + iOS 14 | MVVM](https://www.udemy.com/course/instagram-firestore-app-clone-swift-5-ios-14-mvvm/)
 <!--
 [Repo] [개발 궁금증 정리] [Questions](https://github.com/scriabinEtude/Questions) 
 -->
