@@ -4,7 +4,10 @@
 앱 개발자로서 성장 과정을 기록하고자 합니다.\
 잘 부탁 드립니다!
 
+<u>(* 인프런 링크는 403에러가 뜰 수 있습니다. 링크를 복사한 이후 새 창에서 띄워주세요)</u>
+
 <br/><br/>
+
 
 # 2022 앱 개발 시작 Flutter
 
@@ -31,7 +34,10 @@
 
 ### 05월
 [강의] [udemy] [Instagram Firestore App Clone | Swift 5 + iOS 14 | MVVM](https://www.udemy.com/course/instagram-firestore-app-clone-swift-5-ios-14-mvvm/)\
+<!--
 [Repo] [개발 궁금증 정리] [Questions](https://github.com/scriabinEtude/Questions) 
+-->
+
 
 <br/><br/>
 
