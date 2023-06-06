@@ -43,7 +43,7 @@
 ### 06월
 [Repo] [Clone Coding] [WhatsApp Clone](https://github.com/scriabinEtude/chat-clone-swiftUi)\
 [Repo] [개인 프로젝트] [Wifi Talk](https://github.com/scriabinEtude/wifi-talk)\
-[기타] 애플 계정 등록
+[기타] Apple Developer 등록
 
 
 <br/><br/>
